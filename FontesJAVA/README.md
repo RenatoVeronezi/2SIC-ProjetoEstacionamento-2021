@@ -1,0 +1,1 @@
+# Use esta pasta para guardar sua Workspace do Eclipse
